@@ -7,9 +7,10 @@ In diesem Dokument habe ich ein paar Sachen runtergeschrieben, die für manche v
 1.  [Downtime Activities](#downtime-activities)
     1.  [Crafting](#crafting)
     2.  [Spell Scrolls](#spell-scrolls)
-    3.  [Training](#training)
-    4.  [Soziale Interaktionen](#soziale-interaktionen)
-    5.  [Anderes](#anderes)
+    3.  [Spells erfinden](#spells-erfinden)
+    4.  [Training](#training)
+    5.  [Soziale Interaktionen](#soziale-interaktionen)
+    6.  [Anderes](#anderes)
 2.  [Allgemeines Zeug](#allgemeines-zeug)
 3.  [Equipment](#equipment)
     1.  [Waffen](#waffen)
@@ -31,6 +32,8 @@ In diesem Dokument habe ich ein paar Sachen runtergeschrieben, die für manche v
     11. [Sorcerer](#sorcerer)
     12. [Warlock](#warlock)
     13. [Wizard](#wizard)
+    14. [Feats, die ihr genommen habt](#feats-die-ihr-genommen-habt)
+ 5. [Conditions](#conditions)
 
 # Downtime Activities
 
@@ -44,6 +47,7 @@ In diesem Dokument habe ich ein paar Sachen runtergeschrieben, die für manche v
 
 Mit dem richtigen [Tools](https://www.dndbeyond.com/sources/phb/equipment#Tools) können gewöhnliche Gegenstände hergestellt werden.
 Für magische Gegenstände braucht man eventuell besondere, seltene Materialien und längere Zeit, um den Gegenstand zu verzaubern.
+Ihr könnt theoretisch die meisten Magic Items, die es bereits gibt herstellen (siehe [Tabelle](#magische-gegenstände) weiter unten), euch aber auch selbst neue Magic Items ausdenken (mit mir absprechen)
 
 ## Spell Scrolls:
 
@@ -53,6 +57,9 @@ Ein in eine Spell Scroll gewirkter Spell kann ein mal von einem Character, auf d
 Wizards, Pact of the Tome Warlocks und Character mit dem Ritual Caster Feat können manche Spells in ihr Zauberbuch abschreiben.
 
 * * *
+## [Spells erfinden](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#CreatingaSpell)
+Spellcaster können neue Magie erschaffen. Das ist ein sehr aufwändiger Prozess, der viel Zeit und Materialien benötigt. Gibt es etwas, das ihr gerne mit einem Zauber machen wollen würdet, sprecht ihr das am besten mit mir ab.
+***
 
 ## Training
 
@@ -78,7 +85,7 @@ Mit dem entsprechenden Zeitaufwand kann ein Character zunächst Half-Proficiency
 
 Sollte ein Character eine spezielle Fähigkeit erlernen wollen, die von den Regeln nicht gut abgedeckt wird, kann er auch eine komplett neue Fähigkeit lernen, z.B. Handeln oder Resilienz.
 
-#### Feats
+#### [Feats](https://www.dndbeyond.com/feats)
 
 Sehr spezielle Fähigkeiten können auch durch Feats erlangt werden.
 Möchte ein PC ein zusätzliches Feat erlangen, kann er das durch Training oder Ähnliches (abhängig vom jeweiligen Feat) erreichen.
@@ -112,10 +119,11 @@ Solltet ihr vorhaben, solche Aktivitäten durchzuführen (z.B. Gebäude bauen, R
 * * *
 
 ## [Normale Gegenstände](https://www.dndbeyond.com/sources/phb/equipment#AdventuringGear)
-
+[Alle](https://www.dndbeyond.com/equipment)
 * * *
 
 ## [Werkzeug](https://www.dndbeyond.com/sources/phb/equipment#Tools)
+[Zeug, das man theoretisch mit Werkzeug machen kann.](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#ToolProficiencies)
 
 * * *
 
@@ -237,7 +245,8 @@ Zusätzlich zur kostenlosen Object interaction kann man als Action auch ein Obje
 Auch Sachen, die hier nicht explizit aufgeführt wurden, können als Action versucht werden. Was dabei möglich ist, bestimmt im Zweifel der DM.
 
 * * *
-
+Es gibt noch zusätzliche Optionen im DMs Guide. 
+Wen das interessiert: [HIER](https://www.dndbeyond.com/sources/dmg/dungeon-masters-workshop#ActionOptions)
 * * *
 
 ## Spezielle Sachen, nach Klassen
@@ -671,6 +680,11 @@ Als Warlock kann man die [Subclass](https://www.dndbeyond.com/classes/warlock#Ot
     [\- alles was man mit Wizard Spells halt so machen kann](https://www.dndbeyond.com/spells/class/wizard)
 
 * * *
+### Feats, die ihr genommen habt
+#### [Ritual Caster (Wizard) Spells](https://www.dndbeyond.com/spells/class/wizard?filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=t&filter-sub-class=)
+Spells können in das Buch geschrieben werden, sobald man als Character das Level hat, mit dem ein Full Wizard den Spell lernen könnte (also Level 2 Spells ab Character Level 3, Lvl 3 Spells ab Lvl 5, Lvl 4 ab Lvl 7, Lvl 5 ab Lvl 9 und Lvl 6 ab Lvl 11).
+
+
 
 # Conditions
 
